@@ -1,0 +1,12 @@
+# Site settings
+title: Alex's Awesome Site
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  My site for all the coding stuff I do.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://morrisonalexr.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  morrisonalexr
+
+# Build settings
+markdown: kramdown
